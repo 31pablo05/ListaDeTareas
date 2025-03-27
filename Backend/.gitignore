@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Configuración del entorno
+.env
+
+# Archivos de logs
+logs/
+*.log
